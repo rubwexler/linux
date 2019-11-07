@@ -1,0 +1,26 @@
+$$$
+
+1. Cut this line and paste it ABOVE the line with the 3 $$$ characters
+
+2. Copy this line and paste it 5 times below this line.
+
+3. Delete all of the vowels in this sentence in COMMAND mode.
+(hint also see what the capital "X" key does..can you tell?)
+
+
+5. Delete the following 6 lines with 1 delete command
+i'm a line to be deleted
+i'm a line to be deleted
+i'm a line to be deleted
+i'm a line to be deleted
+i'm a line to be deleted
+i'm a line to be deleted
+
+6. Delete this line and then undo it.
+
+7. The next line is really long, practice using the "$" character to jump to the end of it and the "^" character to jump to the beginning of it. Also play with using the "b" and "w" characters to jump from word to word.
+
+To launch the celebration of the tenth anniversary of the founding of the Montgomery County Community College Alumni Association, an Alumni Hall of Fame will be the focus of a dinner and program to honor five MCCC alumni. Planned for Friday, October 3, 2003, this banquet at the Savory Grill Restaurant will be the setting for the launch of the inaugural Alumni Reunion Weekend. The ongoing weekend festivities will include a ìMCCC Alumni Family Reunion Picnicî to be offered as a mid-day feature during the Central Campus Community Day on Saturday. Both events require advance reservations. Individual tickets for the four-course Hall of Fame dinner start at $40, with sponsorship opportunities available. Tickets for the Family Reunion Picnic event are $10 per person or $25 for a family of three or more. 
+
+
+  
